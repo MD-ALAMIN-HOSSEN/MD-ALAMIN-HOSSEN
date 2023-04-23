@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MD-ALAMIN-HOSSEN
-- 👀 I’m interested in c++ competitive programming.
-- 🌱 I’m currently learning c++, java.
+- 👀 I’m interested in Robotics, AI, Computer vision.
+- 🌱 I’m currently learning Ros, Tensorflow.
+- I have worked with c++, C#, sql, git&github, python.
 - 📫 How to reach me (mdalaminhossen223322@gmail.com)
 
 <!---
